@@ -1,0 +1,22 @@
+
+.contenedor-principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(/Img/1918.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+
+.contenedor{
+    padding: 30px;
+    background-color: rgba(142, 184, 221, 0.722);
+
+}
